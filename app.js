@@ -1,1 +1,6 @@
-console.log("Olá Mundo");
+function dizerOla(nome) {
+    console.log(`Olá, ${nome}!`);
+}
+
+dizerOla("Mundo");
+dizerOla("Bruno");
