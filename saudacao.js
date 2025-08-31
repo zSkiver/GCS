@@ -7,3 +7,9 @@ function dizerTchau(nome) {
 }
 
 module.exports = { dizerOla, dizerTchau };
+
+function bomDia(nome) {
+    return `Bom dia, ${nome}!`;
+}
+
+module.exports = { dizerOla, dizerTchau, bomDia };
