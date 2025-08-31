@@ -36,7 +36,7 @@ Repositório criado para a atividade de **Gerência de Configuração de Softwar
 git init
 
 # Adicionar remoto
-git remote add origin https://github.com/zSkiver/GCS-ATV4.git
+git remote add origin https://github.com/zSkiver/GCS.git
 
 # Adicionar e commitar alterações
 git add .
