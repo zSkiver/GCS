@@ -6,17 +6,17 @@ Repositório criado para a atividade de **Gerência de Configuração de Softwar
 
 ## Estrutura do Projeto
 
-- **Versão 1** → Arquivo `HELLO.JS` com um simples `console.log("Olá Mundo");`  
+- **Versão 1** → Arquivo `app.js` com um simples `console.log("Olá Mundo");`  
 - **Versão 2** → Função `dizerOla(nome)` para saudar diferentes usuários.  
-- **Versão 3** → Modularização do código em `saudacoes.js`, exportando funções e importando no `HELLO.JS`.  
+- **Versão 3** → Modularização do código em `saudacao.js`, exportando funções e importando no `app.js`.  
 - **Feature Branch** → Criada a branch `feature-nova`, adicionando a função `bomDia(nome)`.
 
 ---
 
 ##Arquivos Principais
 
-- `HELLO.JS` → Arquivo principal que executa o programa.  
-- `saudacoes.js` → Módulo responsável pelas funções de saudação.  
+- `app.js` → Arquivo principal que executa o programa.  
+- `saudacao.js` → Módulo responsável pelas funções de saudação.  
 
 ---
 
@@ -24,7 +24,7 @@ Repositório criado para a atividade de **Gerência de Configuração de Softwar
 
 1. Inicialização do repositório e **commit da versão 1**.  
 2. Evolução para a **versão 2** (função `dizerOla`).  
-3. Evolução para a **versão 3** (modularização com `saudacoes.js`).  
+3. Evolução para a **versão 3** (modularização com `saudacao.js`).  
 4. Criação de **branch de feature** (`feature-nova`) para incluir novas funcionalidades.  
 
 ---
