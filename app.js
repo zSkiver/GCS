@@ -1,6 +1,5 @@
-function dizerOla(nome) {
-    console.log(`Olá, ${nome}!`);
-}
+const saudacoes = require("./saudacoes");
 
-dizerOla("Mundo");
-dizerOla("Bruno");
+console.log(saudacoes.dizerOla("Mundo"));
+console.log(saudacoes.dizerOla("Bruno"));
+console.log(saudacoes.dizerTchau("Bruno"));
